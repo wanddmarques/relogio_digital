@@ -1,4 +1,4 @@
-                                                                      Relógio Digital Web
+                                                 Relógio Digital Web
 
 - Este projeto é um Relógio Digital interativo desenvolvido utilizando HTML, CSS e JavaScript, com foco em boas práticas de programação, organização de código e fundamentos do desenvolvimento front-end.
 
