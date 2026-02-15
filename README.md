@@ -23,7 +23,7 @@ Objeto Date
 
 Formatação de dados
 
-⚙️ Funcionalidades
+- Funcionalidades
 
 Exibição de horário em tempo real
 
